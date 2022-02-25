@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: projects
 headless: true
-weight: 15
+weight: 20
 
-title: News
+title: Publications
 subtitle:
 
 content:
@@ -22,6 +22,3 @@ design:
   view: 3
   columns: "1"
 ---
-
-- Feb 25,2022: Shocking! Dian has just finished his forth edition of ICRL video. 
-- Feb 25,2022: Hey! Our new helping hands website launched on Feb 25,2022!

@@ -16,10 +16,10 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
+  - Our intrepid leader (i.e. the PI)
+  - Intrepid student
+  - Ph.D. Students
+  - M.S. Students
   - Visitors
   - Alumni
 design:
