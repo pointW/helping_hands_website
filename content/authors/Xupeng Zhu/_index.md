@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-# role: Professor of Artificial Intelligence
+role: PhD student, CS
 
 # Organizations/Affiliations
 organizations:

@@ -5,7 +5,7 @@ title: Robert Platt
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lab Director
 
 # Organizations/Affiliations
 organizations:
