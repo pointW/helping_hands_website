@@ -44,3 +44,9 @@ The helping hands lab website is now deployed [here.](https://helpinghandslab.ne
 
 ## Advanced option for real-time preview & debugging
 [Offcial document](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
+
+
+
+## Website major updates
+* Mar 3, 2022: Support dark mode!
+* Mar 2, 2022: HH website launched!
