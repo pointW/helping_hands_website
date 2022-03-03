@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: Ocean
-  theme_night:
+  theme_night: Dark
   font: Naive
-  font_size: L
+  font_size: m
 
 # SEO
 
@@ -45,7 +45,7 @@ footer:
   copyright:
     notice: '© {year} Helping hands lab. This website uses Wochemy templates with Hugo framework'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false

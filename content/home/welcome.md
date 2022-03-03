@@ -1,4 +1,4 @@
----
+<!-- ---
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The Helping Hands Lab develops perception, planning, and control algorithms for robot manipulation in unstructured environments. We are particularly interested in robots that work with humans in built-for-human environments.
+The Helping Hands Lab develops perception, planning, and control algorithms for robot manipulation in unstructured environments. We are particularly interested in robots that work with humans in built-for-human environments. -->

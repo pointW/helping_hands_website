@@ -22,6 +22,7 @@ content:
   - M.S. Students
   - Visitors
   - Alumni
+  - admin
 design:
   show_interests: false
   show_role: true

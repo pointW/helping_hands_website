@@ -17,10 +17,10 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: publication
+  page_type: 
 design:
   view: 3
   columns: "1"
 ---
 
-- Feb 25,2022: Hey! Our new helping hands website launched on March 03,2022!
+- March 03,2022: Hey! Our new helping hands website launched on March 03,2022!

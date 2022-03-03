@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Alumni
+title: Alumni News
 subtitle:
 
 ---
