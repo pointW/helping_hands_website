@@ -47,7 +47,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- admin
+- 
 ---
 <br>
 <br>
@@ -58,3 +58,6 @@ The Helping Hands Lab develops **perception, planning, and control algorithms fo
 </span>
 <br>
 <br>
+
+
+<a href="https://ibb.co/4Rprkpw"><img src="https://i.ibb.co/5hLHZLX/ADEF6771-464-E-4-A34-8-DF9-4-D0-C0-F0-F5-CC3.jpg" alt="ADEF6771-464-E-4-A34-8-DF9-4-D0-C0-F0-F5-CC3" border="0"></a><br />
