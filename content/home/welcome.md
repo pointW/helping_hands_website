@@ -9,7 +9,7 @@ weight: 10  # Order that this section will appear.
 title: |
   The Helping Hands Lab 
   @ Northeastern
-hero_media: welcome.png
+hero_media: logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

@@ -23,5 +23,4 @@ design:
   columns: "1"
 ---
 
-- Feb 25,2022: Shocking! Dian has just finished his forth edition of ICRL video. 
-- Feb 25,2022: Hey! Our new helping hands website launched on Feb 25,2022!
+- Feb 25,2022: Hey! Our new helping hands website launched on March 03,2022!

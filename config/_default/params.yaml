@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Helping hands lab. This website uses Wochemy templates with Hugo framework'
     license:
       enable: true
       allow_derivatives: false
