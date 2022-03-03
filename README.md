@@ -3,9 +3,11 @@
 [![Screenshot](./assets/media/logo.png)](https://helpinghandslab.netlify.app/)
 
 The helping hands lab website is now deployed [here.](https://helpinghandslab.netlify.app/)
+* **As our website is newly launched, to avoid website collapse, please create your own branch for modification, and then make a pull request.:) Sorry for the inconvience. I will frequently check and examine the request. If you would like to preview the modification, pls follow [this instruction](https://wowchemy.com/docs/getting-started/install-hugo-extended/)**
+
 * It often need about 5 min for website to update after git push. 
 
-* Please add/modify/delete files in the *content* folder. :)
+* Please only do add/modify/delete actions in the *content* folder. :)
 
 ## Publication
 * **Add publication**: 
