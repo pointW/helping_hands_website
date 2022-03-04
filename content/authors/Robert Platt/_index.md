@@ -13,7 +13,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Perception, planning, and control for robotic manipulation.
 
 interests:
 - Perception, planning, and control for robotic manipulation
@@ -33,16 +33,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'rplatt@ccs.neu.edu'
+
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: http://www.ccs.neu.edu/home/rplatt/#_ga=2.201523602.2007233004.1646268741-149923963.1636416990
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +59,9 @@ user_groups:
 ---
 <meta http-equiv = "refresh" content = " 0 ; url = https://www.khoury.northeastern.edu/people/robert-platt/"/>
 
+
+## Biography
+Robert Platt is an assistant professor at the Khoury College of Computer Sciences. He is also affiliated with Northeastern’s Department of Electrical and Computer Engineering. Prior to joining Northeastern, Platt was a research scientist at Massachusetts Institute of Technology and a robotics engineer at NASA.
+
+Platt’s work primarily focuses on perception, planning, and control for robotic manipulation. He is particularly interested in the intersection between robotic perception and planning/control, with the goal of enabling robots to robustly perform manipulation tasks in the context of real-world perceptual uncertainties. This area of study is essential to performing robotic assembly or repair tasks, or simply grasping and lifting objects in everyday environments. Platt expects robust robotic manipulation will have a range of future applications in the home, healthcare, factories or warehouses, hazardous environments, and the military.
 

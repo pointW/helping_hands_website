@@ -72,4 +72,4 @@ user_groups:
 
 ---
 
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://pointw.github.io/"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://pointw.github.io/"/>
