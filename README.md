@@ -42,7 +42,10 @@ The helping hands lab website is now deployed [here.](https://helpinghandslab.ne
     <meta http-equiv = "refresh" content = " 0 ; url = yourURL"/>
     ```
 
-## News on home page
+## Home page
+* **About**
+
+  Modify in '/content/author/admin/_index.md'.
 * **Add/modify news**
 
   In /content/home/news.md.
