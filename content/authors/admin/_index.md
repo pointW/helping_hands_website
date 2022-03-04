@@ -52,6 +52,7 @@ user_groups:
 <br>
 <span style="font-size:1.5em;">
 <div style="text-align: justify"> 
+
 The Helping Hands Lab develops **perception, planning, and control algorithms for robot manipulation in unstructured environments**. We are particularly interested in robots that work with humans in built-for-human environments.
 </div>
 </span>
