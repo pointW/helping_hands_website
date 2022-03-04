@@ -1,5 +1,5 @@
 ---
-title: "My conference paper"
+title: "Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems"
 authors:
 - Alexander Wilkinson
 - Michael Gonzales
