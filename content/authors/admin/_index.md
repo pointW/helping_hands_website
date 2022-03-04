@@ -29,9 +29,9 @@ bio: The Helping Hands Lab develops perception, planning, and control algorithms
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Z4Y5S2oAAAAJ&hl=en&oi=ao
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/helpinghandslab
 - icon: github
   icon_pack: fab
   link: https://github.com/ColinKohler/helping_hands_rl_envs

@@ -36,7 +36,7 @@ The helping hands lab website is now deployed [here.](https://helpinghandslab.ne
   Modify user group in '/content/authors/$YOURNAME/_index.md'
 * **Modify your own page**
 
-  Modify in '/content/authors/$YOURNAME/_index.md'
+  Modify in '/content/authors/$YOURNAME/_index.md'. **And I strongly suggest you modify the social info in your own profile.** It is in '/content/authors/$YOURNAME/_index.md'. 
 * **Redirect it to your personal website**: find your folder and append the following in '/content/authors/$YOURNAME/_index.md'
     ```
     <meta http-equiv = "refresh" content = " 0 ; url = yourURL"/>
