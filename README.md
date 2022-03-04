@@ -42,7 +42,16 @@ The helping hands lab website is now deployed [here.](https://helpinghandslab.ne
     <meta http-equiv = "refresh" content = " 0 ; url = yourURL"/>
     ```
 
+## News on home page
+* **Add/modify news**
 
+  In /content/home/news.md.
+
+## Advanced option for website layout
+
+* **To add/delete widgets on home page**
+
+  Add/delete a markdown file in /content/home. You can change the order of widgets by adjusting 'weight'. 
 
 ## Advanced option for real-time preview & debugging
 [Offcial document](https://wowchemy.com/docs/getting-started/install-hugo-extended/)

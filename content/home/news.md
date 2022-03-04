@@ -23,4 +23,7 @@ design:
   columns: "1"
 ---
 
+<!-- add news below -->
+
+
 - March 03,2022: Hey! Our new helping hands website launched on March 03,2022!
