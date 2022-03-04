@@ -24,8 +24,7 @@ bio: The Helping Hands Lab develops perception, planning, and control algorithms
 
 
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# Social/Academic Networkingright://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
@@ -52,12 +51,12 @@ user_groups:
 <br>
 <br>
 <span style="font-size:1.5em;">
-
+<div style="text-align: justify"> 
 The Helping Hands Lab develops **perception, planning, and control algorithms for robot manipulation in unstructured environments**. We are particularly interested in robots that work with humans in built-for-human environments.
-
+</div>
 </span>
 <br>
 <br>
 
 
-<a href="https://ibb.co/4Rprkpw"><img src="https://i.ibb.co/5hLHZLX/ADEF6771-464-E-4-A34-8-DF9-4-D0-C0-F0-F5-CC3.jpg" alt="ADEF6771-464-E-4-A34-8-DF9-4-D0-C0-F0-F5-CC3" border="0"></a><br />
+<a href="https://ibb.co/G3Jvz5m"><img src="https://i.ibb.co/0VXjHG5/59041-BB4-DD79-44-B2-A98-C-98912-FD4-E1-FB.jpg" alt="59041-BB4-DD79-44-B2-A98-C-98912-FD4-E1-FB" border="0"></a><br />
