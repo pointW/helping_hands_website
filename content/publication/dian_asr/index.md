@@ -7,8 +7,8 @@ authors:
 date: "2020-11-16T00:00:00Z"
 doi: ""
 
-external_link: https://pointw.github.io/asrse3-page/
-
+external_link: "https://pointw.github.io/asrse3-page/"
+"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-02T00:00:00Z"
 
