@@ -52,6 +52,7 @@ The helping hands lab website is now deployed [here.](https://helpinghandslab.ne
 * **To add/delete widgets on home page**
 
   Add/delete a markdown file in /content/home. You can change the order of widgets by adjusting 'weight'. 
+  More instructions are [here.](https://wowchemy.com/docs/getting-started/get-started/#themes)
 
 ## Advanced option for real-time preview & debugging
 [Offcial document](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
