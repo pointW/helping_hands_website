@@ -8,7 +8,7 @@
 appearance:
   theme_day: Ocean
   theme_night: Dark
-  font: Native
+  font: Minimal
   font_size: m
 
 # SEO
