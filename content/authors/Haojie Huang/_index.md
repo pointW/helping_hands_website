@@ -69,4 +69,4 @@ user_groups:
 - Ph.D. Students
 ---
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://haojhuang.github.io/"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://haojhuang.github.io"/>
