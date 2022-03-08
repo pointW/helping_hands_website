@@ -23,12 +23,7 @@ publication_types: ["3"]
 publication: In *preprint*
 publication_short: In *preprint*
 
-abstract: In planar grasp detection, the goal is to learn a function from an image of a scene onto a set of feasible grasp poses
-in SE(2). In this paper, we recognize that the optimal grasp function is SE(2)-equivariant and can be modeled
-using an equivariant convolutional neural network. As a result, we are able to significantly improve the sample
-efficiency of grasp learning, obtaining a good approximation of the grasp function after only 600 grasp attempts. This
-is few enough that we can learn to grasp completely on a physical robot in about 1.5 hours.
-
+abstract: In planar grasp detection, the goal is to learn a function from an image of a scene onto a set of feasible grasp poses in SE(2). In this paper, we recognize that the optimal grasp function is SE(2)-equivariant and can be modeled using an equivariant convolutional neural network. As a result, we are able to significantly improve the sample efficiency of grasp learning, obtaining a good approximation of the grasp function after only 600 grasp attempts. This is few enough that we can learn to grasp completely on a physical robot in about 1.5 hours.
 # Summary. An optional shortened abstract.
 summary: 
 
