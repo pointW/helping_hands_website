@@ -5,6 +5,7 @@
 The helping hands lab website is now deployed [here.](https://helpinghandslab.netlify.app/)
 * **As our website is newly launched, to avoid website collapse, please create your own branch for modification, and then make a pull request.:) Sorry for the inconvience. I will frequently check and examine the request. **
   * tips: you can find a preview link in your github request page in 2 minutes after pulling a request, if no errors in your files. If it shows 'fail to preview', you can use error logs for debugging. :)
+  * tips: If you would like to use the above method to debug, pls contain "testing" in your request topic so that I won't merge it.
   * tips: If you would like to preview the modification, pls follow [this instruction](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
 * It often need about 5 min for website to update after merging. 
