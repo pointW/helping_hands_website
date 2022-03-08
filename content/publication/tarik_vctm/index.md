@@ -62,4 +62,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<!-- <meta http-equiv = "refresh" content = " 0.01 ; url = https://pointw.github.io/asrse3-page/"/> -->
+<meta http-equiv = "refresh" content = " 0.01 ; url = https://ieeexplore.ieee.org/abstract/document/9636866"/>
