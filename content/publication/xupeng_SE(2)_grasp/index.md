@@ -1,12 +1,12 @@
 ---
 title: "Sample Efficient Grasp Learning Using Equivariant Models"
 authors:
--[Xupeng Zhu](https://zxp-s-works.github.io/)
--[Dian Wang](https://pointw.github.io)
--[Ondrej Biza](https://sites.google.com/view/obiza)
--[Guanang Su]()
--[Robin Walters](http://mathserver.neu.edu/robin/)
--[Robert Platt](http://www.ccs.neu.edu/home/rplatt/)
+- Xupeng Zhu
+- Dian Wang
+- Ondrej Biza
+- Guanang Su
+- Robin Walters
+- Robert Platt
 date: "2022-2-22T00:00:00Z"
 doi: ""
 
