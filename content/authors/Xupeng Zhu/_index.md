@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zxpzzz521@gmail.com'
+  link: 'mailto:zxpzzz521@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/XupengZ
@@ -53,7 +53,7 @@ social:
   link: https://www.researchgate.net/profile/Xupeng-Zhu-2
 - icon: github
   icon_pack: fab
-  link: https:https://github.com/ZXP-S-works
+  link: https://github.com/ZXP-S-works
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
