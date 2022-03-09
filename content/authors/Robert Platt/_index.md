@@ -56,6 +56,8 @@ highlight_name: false
 user_groups:
 - Our intrepid leader (i.e. the PI)
 
+site: https://www.khoury.northeastern.edu/people/robert-platt/
+
 ---
 <meta http-equiv = "refresh" content = " 0 ; url = https://www.khoury.northeastern.edu/people/robert-platt/"/>
 
