@@ -9,7 +9,6 @@ doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-02T00:00:00Z"
-
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -30,9 +29,14 @@ tags:
 featured: true
 
 links:
+- name: Project
+  url: https://pointw.github.io/equi_rl_page/
 url_pdf: https://openreview.net/pdf?id=7F9cOhdvfk_
 url_code: https://github.com/pointW/equi_rl
-url_project: https://pointw.github.io/equi_rl_page/
+
+
+external_link: https://pointw.github.io/equi_rl_page/
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -60,4 +64,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://pointw.github.io/equi_rl_page"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://openreview.net/pdf?id=7F9cOhdvfk_"/>

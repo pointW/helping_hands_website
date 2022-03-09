@@ -30,9 +30,10 @@ tags:
 featured: true
 
 links:
+- name: Project
+  url: https://pointw.github.io/asrse3-page
 url_pdf: https://arxiv.org/pdf/2010.02798
 url_code: https://github.com/pointW/asrse3_corl20
-url_project: https://pointw.github.io/asrse3-page
 url_video: https://www.youtube.com/watch?v=FiHoIF1oLZs
 
 # Featured image
@@ -61,4 +62,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://pointw.github.io/asrse3-page/"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/pdf/2010.02798"/>
