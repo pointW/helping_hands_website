@@ -41,11 +41,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zxpzzz521@gmail.com'
+  link: 'mailto:zxpzzz521@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/XupengZ
@@ -54,8 +53,7 @@ social:
   link: https://www.researchgate.net/profile/Xupeng-Zhu-2
 - icon: github
   icon_pack: fab
-  link: https:https://github.com/ZXP-S-works
-
+  link: https://github.com/ZXP-S-works
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,4 +73,3 @@ site: https://zxp-s-works.github.io
 ---
 
 <meta http-equiv = "refresh" content = " 0 ; url = https://zxp-s-works.github.io/"/>
-
