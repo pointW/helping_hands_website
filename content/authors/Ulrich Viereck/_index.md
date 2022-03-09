@@ -69,6 +69,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
+
+site: https://www.khoury.northeastern.edu/people/ulrich-viereck/
+
 ---
 
 <meta http-equiv = "refresh" content = " 0 ; url = https://www.khoury.northeastern.edu/people/ulrich-viereck/"/>

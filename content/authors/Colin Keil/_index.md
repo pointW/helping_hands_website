@@ -70,6 +70,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Ph.D. Students
+
+site: https://www.colinkeil.com/
+
 ---
 
 <meta http-equiv = "refresh" content = " 0 ; url = https://www.colinkeil.com/"/>
