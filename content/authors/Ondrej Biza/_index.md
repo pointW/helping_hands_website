@@ -42,19 +42,16 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:test@example.org'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:biza.o@northeastern.edu'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Gi9Xq8YAAAAJ&hl=en&oi=ao
+- icon: github
+  icon_pack: fab
+  link: https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fondrejba&sa=D&sntz=1&usg=AFQjCNH9sgFT6VJJbP6m_qqiVn11hMV3Kg
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

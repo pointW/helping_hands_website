@@ -42,10 +42,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:test@example.org'
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:girikmalik@gmail.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,4 +74,4 @@ site: https://www.khoury.northeastern.edu/people/girik-malik/
 
 ---
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://www.khoury.northeastern.edu/people/girik-malik/"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://www.ccs.neu.edu/home/gmalik/#_ga=2.148797175.179456881.1646850078-1736405512.1646850078"/>
