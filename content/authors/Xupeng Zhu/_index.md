@@ -14,7 +14,7 @@ role: PhD student, CS
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Northeastern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: Northeastern University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology

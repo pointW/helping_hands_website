@@ -1,8 +1,10 @@
 ---
-title: "Policy learning in SE(3) action spaces"
+title: "Belief-Grounded Networks for Accelerated Robot Learning under Partial Observability"
 authors:
-- Dian Wang
-- Colin Kohler
+- Hai Nguyen
+- Brett Daley
+- Xinchao Song
+- Christopher Amato
 - Robert Platt
 date: "2020-11-16T00:00:00Z"
 doi: ""
@@ -20,7 +22,7 @@ publication_types: ["1"]
 publication: In *4th Annual Conference on Robot Learning*
 publication_short: In *CoRL 2020*
 
-abstract: In the spatial action representation, the action space spans the space of target poses for robot motion commands, i.e. SE(2) or SE(3). This approach has been used to solve challenging robotic manipulation problems and shows promise. However, the method is often limited to a three dimensional action space and short horizon tasks. This paper proposes ASRSE3, a new method for handling higher dimensional spatial action spaces that transforms an original MDP with high dimensional action space into a new MDP with reduced action space and augmented state space. We also propose SDQfD, a variation of DQfD designed for large action spaces. ASRSE3 and SDQfD are evaluated in the context of a set of challenging block construction tasks. We show that both methods outperform standard baselines and can be used in practice on real robotics systems.
+abstract: Many important robotics problems are partially observable where a single visual or force-feedback measurement is insufficient to reconstruct the state. Standard approaches involve learning a policy over beliefs or observation-action histories.    However, both of these have drawbacks; it is expensive to track the belief online, and it is hard to learn policies directly over histories. We propose a method for policy learning under partial observability called the Belief-Grounded Network (BGN) in which an auxiliary belief-reconstruction loss incentivizes a neural network to concisely summarize its input history. Since the resulting policy is a function of the history rather than the belief, it can be executed easily at runtime. We compare BGN against several baselines on classic benchmark tasks as well as three novel robotic force-feedback tasks. BGN outperforms all other tested methods and its learned policies work well when transferred onto a physical robot.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -30,11 +32,9 @@ tags:
 featured: true
 
 links:
-- name: Project
-  url: https://pointw.github.io/asrse3-page
-url_pdf: https://arxiv.org/pdf/2010.02798
-url_code: https://github.com/pointW/asrse3_corl20
-url_video: https://www.youtube.com/watch?v=FiHoIF1oLZs
+url_pdf: https://arxiv.org/abs/2010.09170
+url_code: https://github.com/hai-h-nguyen/belief-grounded-network
+url_project: https://sites.google.com/view/bgn-pomdp
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,4 +62,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/pdf/2010.02798"/>
+<meta http-equiv = "refresh" content = " 0.01 ; url = https://sites.google.com/view/bgn-pomdp"/>
