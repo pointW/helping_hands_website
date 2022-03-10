@@ -72,5 +72,7 @@ The helping hands lab website is now deployed [here.](https://helpinghandslab.ne
 * link the to-be launched lab twitter account
 
 ## Website major updates
-* Mar 3, 2022: Support dark mode!
-* Mar 2, 2022: HH website launched!
+* Mar 9, 2022: people directly link to personal page, by Dian
+* Mar 9, 2022: add side feature pic on publication page, by Dian
+* Mar 3, 2022: Support dark mode! by Mingxi
+* Mar 2, 2022: HH website launched! by Mingxi
