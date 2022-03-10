@@ -30,48 +30,46 @@
 
 <div class="media stream-item view-compact">
   <div class="media-body">
+    <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+      <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="{{$item.Params.url_pdf}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-    </div>
+      {{/* APA Style */}}
+      {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
-    {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style">
-        {{.}}
-      </div>
-    </a>
-    {{ end }}
+      <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}
+  </span>
+      ({{- $item.Date.Format "2006" -}}).
+      <a href="{{ $item.Params.url_pdf }}">{{ $item.Title }}</a>.
+      {{ if $item.Params.publication_short }}
+      {{- $item.Params.publication_short | markdownify -}}.
+      {{ else if $item.Params.publication }}
+      {{- $item.Params.publication | markdownify -}}.
+      {{ end }}
+      <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
 
-    <div class="stream-meta article-metadata">
+      {{/* MLA Style */}}
+      {{ else }}
 
-      {{ if eq $item.Type "event" }}
-      <div>
-        <span>
-          {{ partial "functions/get_event_dates" $item }}
-        </span>
-        {{ with $item.Params.location }}
-        <span class="middot-divider"></span>
-        <span>{{ . }}</span>
-        {{ end }}
+      <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}.
+  </span>
+      <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+      {{ if $item.Params.publication_short }}
+      {{- $item.Params.publication_short | markdownify -}},
+      {{ else if $item.Params.publication }}
+      {{- $item.Params.publication | markdownify -}},
+      {{ end }}
+      {{- $item.Date.Format "2006" -}}.
+
+      {{ if $has_attachments }}
+      <div class="btn-links">
+        {{ partial "page_links" (dict "page" $item "is_list" 1) }}
       </div>
       {{ end }}
 
-      {{ if and $show_authors_only $item.Params.authors }}
-      <div>
-        {{ partial "page_metadata_authors" $item }}
-      </div>
-      {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
     </div>
-
-    {{ if $has_attachments }}
-    <div class="btn-links">
-      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
-    </div>
-    {{ end }}
-
   </div>
   <div class="ml-3">
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
