@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links:
-- name: Project
+- name: Website
   url: https://zxp-s-works.github.io/equivariant_grasp_site/
 url_pdf: https://arxiv.org/abs/2202.09468
 url_code: https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning

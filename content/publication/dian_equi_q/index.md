@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-- name: Project
+- name: Website
   url: https://pointw.github.io/equi_q_page
 url_pdf: https://arxiv.org/pdf/2110.15443.pdf
 url_code: https://github.com/pointW/equi_q_corl21

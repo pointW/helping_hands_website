@@ -1,10 +1,12 @@
 ---
-title: "SO(2) Equivariant Reinforcement Learning"
+title: "On-Robot Policy Learning with O(2)-Equivariant SAC"
 authors:
 - Dian Wang
+- Mingxi Jia
+- Xupeng Zhu
 - Robin Walters
 - Robert Platt
-date: "2022-04-25T00:00:00Z"
+date: "2022-01-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +15,13 @@ publishDate: "2022-03-02T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Tenth International Conference on Learning Representations*
-publication_short: In *ICLR 2022*
+publication: In *Preprint*
+publication_short: In *Preprint*
 
-abstract: Equivariant neural networks enforce symmetry within the structure of their convolutional layers, resulting in a substantial improvement in sample efficiency when learning an equivariant or invariant function. Such models are applicable to robotic manipulation learning which can often be formulated as a rotationally symmetric problem. This paper studies equivariant model architectures in the context of Q-learning and actor-critic reinforcement learning. We identify equivariant and invariant characteristics of the optimal Q-function and the optimal policy and propose equivariant DQN and SAC algorithms that leverage this structure. We present experiments that demonstrate that our equivariant versions of DQN and SAC can be significantly more sample efficient than competing algorithms on an important class of robotic manipulation problems.
+abstract: Recently, equivariant neural network models have been shown to be useful in improving sample efficiency for tasks in computer vision and reinforcement learning. This paper explores this idea in the context of on-robot policy learning where a policy must be learned entirely on a physical robotic system without reference to a model, a simulator, or an offline dataset. We focus on applications of SO(2)-Equivariant SAC to robotic manipulation and explore a number of variations of the algorithm. Ultimately, we demonstrate the ability to learn several non-trivial manipulation tasks completely through on-robot experiences in less than an hour or two of wall clock time.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,10 +31,7 @@ tags:
 featured: true
 
 links:
-- name: Website
-  url: https://pointw.github.io/equi_rl_page/
-url_pdf: https://arxiv.org/pdf/2203.04439.pdf
-url_code: https://github.com/pointW/equi_rl
+url_pdf: https://arxiv.org/pdf/2203.04923.pdf
 
 
 
@@ -62,4 +61,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://openreview.net/pdf?id=7F9cOhdvfk_"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/pdf/2203.04923.pdf"/>

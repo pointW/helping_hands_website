@@ -30,8 +30,10 @@ tags:
 featured: true
 
 links:
-- name: Project
+- name: Website
   url: https://pointw.github.io/asrse3-page
+- name: Talk
+  url: https://www.youtube.com/watch?v=W0UQMntqaog
 url_pdf: https://arxiv.org/pdf/2010.02798
 url_code: https://github.com/pointW/asrse3_corl20
 url_video: https://www.youtube.com/watch?v=FiHoIF1oLZs
