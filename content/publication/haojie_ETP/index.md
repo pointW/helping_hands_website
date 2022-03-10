@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-- name: Project
+- name: Website
   url: https://haojhuang.github.io/etp_page/
 url_pdf: https://arxiv.org/abs/2202.09400
 url_code: https://github.com/HaojHuang/Equivariant-Transporter-Net

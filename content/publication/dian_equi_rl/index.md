@@ -29,13 +29,11 @@ tags:
 featured: true
 
 links:
-- name: Project
+- name: Website
   url: https://pointw.github.io/equi_rl_page/
-url_pdf: https://openreview.net/pdf?id=7F9cOhdvfk_
+url_pdf: https://arxiv.org/pdf/2203.04439.pdf
 url_code: https://github.com/pointW/equi_rl
 
-
-external_link: https://pointw.github.io/equi_rl_page/
 
 
 # Featured image

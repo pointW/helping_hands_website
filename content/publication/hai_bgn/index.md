@@ -32,9 +32,10 @@ tags:
 featured: true
 
 links:
+- name: Website
+  url: https://sites.google.com/view/bgn-pomdp
 url_pdf: https://arxiv.org/abs/2010.09170
 url_code: https://github.com/hai-h-nguyen/belief-grounded-network
-url_project: https://sites.google.com/view/bgn-pomdp
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

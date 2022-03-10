@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
-- name: Project
+- name: Website
   url: https://pointw.github.io/scooter-page/
 url_pdf: https://arxiv.org/pdf/1809.09541.pdf
 url_video: https://www.youtube.com/watch?v=ZimZlsJTaTU
