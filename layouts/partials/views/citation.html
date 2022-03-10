@@ -1,7 +1,9 @@
 {{ $item := .item }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+<div class="media stream-item view-compact">
+  <div class="media-body">
+    <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   {{/* APA Style */}}
@@ -40,4 +42,14 @@
   {{ end }}
 
   {{ end }}
+</div>
+  </div>
+  <div class="ml-3">
+      {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+      {{ with $resource }}
+      {{ $image := .Resize "150x webp" }}
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+             alt="{{ $item.Title }}" loading="lazy">
+      {{end}}
+  </div>
 </div>
