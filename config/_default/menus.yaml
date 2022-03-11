@@ -19,9 +19,9 @@ main:
   - name: Code
     url: code
     weight: 40
-  - name: Blog
-    url: post
-    weight: 50
   - name: Positions available
     url: contact
     weight: 60
+  - name: Blog
+    url: post
+    weight: 50
