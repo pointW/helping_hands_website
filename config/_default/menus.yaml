@@ -22,6 +22,3 @@ main:
   - name: Positions available
     url: contact
     weight: 60
-  - name: Blog
-    url: post
-    weight: 50

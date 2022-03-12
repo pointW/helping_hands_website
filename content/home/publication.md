@@ -22,4 +22,4 @@ design:
   view: compact
   columns: "1"
 ---
-* For the most up to date list, you can also check [Rob's google scholar profile](https://scholar.google.com/citations?user=Z4Y5S2oAAAAJ&hl=en).
+<!-- * For the most up to date list, you can also check [Rob's google scholar profile](https://scholar.google.com/citations?user=Z4Y5S2oAAAAJ&hl=en). -->
