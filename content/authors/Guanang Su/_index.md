@@ -61,7 +61,7 @@ email: ""
 user_groups:
 - M.S. Students
 
-#site: https://pointw.github.io/
+site: https://www.linkedin.com/in/guanang-su-16851a131/
 
 ---
 
