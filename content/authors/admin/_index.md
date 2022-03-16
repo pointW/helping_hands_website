@@ -50,8 +50,8 @@ user_groups:
 ---
 
 
-<a href="https://ibb.co/G3Jvz5m"><img src="https://i.ibb.co/0VXjHG5/59041-BB4-DD79-44-B2-A98-C-98912-FD4-E1-FB.jpg" width="800" alt="59041-BB4-DD79-44-B2-A98-C-98912-FD4-E1-FB" border="0"></a>
-
+<!-- <a href="https://ibb.co/G3Jvz5m"><img src="https://i.ibb.co/0VXjHG5/59041-BB4-DD79-44-B2-A98-C-98912-FD4-E1-FB.jpg" width="800" alt="59041-BB4-DD79-44-B2-A98-C-98912-FD4-E1-FB" border="0"></a> -->
+{{< figure src="lab.jpg" width="800">}}
 
 <span style="font-size:1.2em;">
 <div style="text-align: justify"> 
