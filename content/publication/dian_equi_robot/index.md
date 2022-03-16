@@ -32,7 +32,7 @@ featured: true
 
 links:
 url_pdf: https://arxiv.org/pdf/2203.04923.pdf
-
+url_video: https://www.youtube.com/watch?v=HDYoOXMojkY
 
 
 # Featured image

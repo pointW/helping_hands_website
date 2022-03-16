@@ -33,6 +33,7 @@ links:
   url: https://pointw.github.io/equi_rl_page/
 url_pdf: https://arxiv.org/pdf/2203.04439.pdf
 url_code: https://github.com/pointW/equi_rl
+url_video: https://youtu.be/8Ocwv2nnSKI
 
 
 
