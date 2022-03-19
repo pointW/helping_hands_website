@@ -1,5 +1,5 @@
 ---
-title: "Graph Attention Shape Completion Network"
+title: "GASCN: Graph Attention Shape Completion Network"
 authors:
 - Haojie Huang
 - Ziyi Yang
@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2021 International Conference on 3D Vision*
-publication_short: In *(3DV)*
+publication_short: In *(3DV 2021)*
 
 abstract: Shape completion, the problem of inferring the complete geometry of an object given a partial point cloud, is an important problem in robotics and computer vision. This paper proposes the Graph Attention Shape Completion Network (GASCN), a novel neural network model that solves this problem. This model combines a graph-based model for encoding local point cloud information with an MLP-based architecture for encoding global information. For each completed point, our model infers the normal and extent of the local surface patch which is used to produce dense yet precise shape completions. We report experiments that demonstrate that GASCN outperforms standard shape completion methods on a standard benchmark drawn from the Shapenet dataset.
 # Summary. An optional shortened abstract.
