@@ -1,8 +1,9 @@
-# [Helping hands website](https://helpinghandslab.netlify.app/)
+# [Helping hands website](https://www2.ccs.neu.edu/research/helpinghands/)
 
-[![Screenshot](./assets/media/logo.png)](https://helpinghandslab.netlify.app/)
+[![Screenshot](./assets/media/logo.png)](https://www2.ccs.neu.edu/research/helpinghands/)
 
-The helping hands lab website is now deployed [here.](https://helpinghandslab.netlify.app/)
+The helping hands lab website is now successfully deployed [here](https://www2.ccs.neu.edu/research/helpinghands/) on Khoury NEU server!
+The previous preview version on Netlify.app is still available [here.](https://helpinghandslab.netlify.app/)
 * **As our website is newly launched, to avoid website collapse, please create your own branch for modification, and then make a pull request.:) Sorry for the inconvience. I will frequently check and examine the request. **
   * tips: you can find a preview link in your github request page in 2 minutes after pulling a request, if no errors in your files. If it shows 'fail to preview', you can use error logs for debugging. :)
   * tips: If you would like to use the above method to debug, pls contain "testing" in your request topic so that I won't merge it.
@@ -68,10 +69,11 @@ The helping hands lab website is now deployed [here.](https://helpinghandslab.ne
 
 
 ## To-do list
-* add side feature pic on publication page
-* link the to-be launched lab twitter account
+* Automatic deployment after new pr or commit.
 
 ## Website major updates
+* Mar 20, 2022: Our website finally successfully deployed on Khoury server!
+* Mar 12, 2022: paper tile directly link to pdf page, by Dian
 * Mar 9, 2022: people directly link to personal page, by Dian
 * Mar 9, 2022: add side feature pic on publication page, by Dian
 * Mar 3, 2022: Support dark mode! by Mingxi
