@@ -32,8 +32,6 @@ featured: true
 
 links:
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9341420
-# url_code: https://github.com/pointW/asrse3_corl20
-# url_project: https://pointw.github.io/asrse3-page
 # url_video: https://www.youtube.com/watch?v=FiHoIF1oLZs
 
 # Featured image
