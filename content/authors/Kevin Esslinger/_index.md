@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, CS
+role: PhD student, CS, co-advised with Chris Amato
 
 # Organizations/Affiliations
 organizations:
