@@ -31,10 +31,12 @@ tags:
 featured: true
 
 links:
+- name: Website
+  url: https://sites.google.com/view/vctm/
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9636866
 # url_code: https://github.com/pointW/asrse3_corl20
-# url_project: https://pointw.github.io/asrse3-page
-# url_video: https://www.youtube.com/watch?v=FiHoIF1oLZs
+# url_project:
+url_video: https://youtu.be/it9DJaT6LSM
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
