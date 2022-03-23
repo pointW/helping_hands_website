@@ -33,7 +33,7 @@ featured: true
 links:
 - name: Website
   url: https://sites.google.com/view/tpem/
-url_pdf: #
+url_pdf: https://arxiv.org/abs/2203.10685
 # url_code: https://github.com/pointW/asrse3_corl20
 # url_project: https://pointw.github.io/asrse3-page
 # url_video: https://sites.google.com/view/tpem/
