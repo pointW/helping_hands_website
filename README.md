@@ -1,6 +1,6 @@
 # [Helping hands website](https://www2.ccs.neu.edu/research/helpinghands/)
 
-[![Screenshot](./assets/media/logo.png)](https://www2.ccs.neu.edu/research/helpinghands/)
+[![Screenshot](./assets/media/icon.png)](https://www2.ccs.neu.edu/research/helpinghands/)
 
 The helping hands lab website is now successfully deployed [here](https://www2.ccs.neu.edu/research/helpinghands/) on Khoury NEU server!
 The previous preview version on Netlify.app is still available [here.](https://helpinghandslab.netlify.app/)
