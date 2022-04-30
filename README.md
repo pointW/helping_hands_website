@@ -69,8 +69,8 @@ The previous preview version on Netlify.app is still available [here.](https://h
 
 ## Debugging tips:
 * Building: YAML, mapping values are not allowed in this context
-  1. One space after "<KEY>:" in yaml or your index.md
-  2. Enclose your content in quotation marks after "<KEY>:" in yaml or your index.md
+  1. One space after "KEY:" in yaml or your index.md
+  2. Enclose your content in quotation marks after "KEY:" in yaml or your index.md, espectially when your content contains colons (":").
 
 ## To-do list
 * Link news section to lab twitter account
