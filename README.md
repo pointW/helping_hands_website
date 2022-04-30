@@ -49,7 +49,7 @@ The previous preview version on Netlify.app is still available [here.](https://h
     <meta http-equiv = "refresh" content = " 0 ; url = yourURL"/>
     ```
 
-## Home page
+## Home page and News
 * **About**
 
   Modify in '/content/author/admin/_index.md'.
@@ -67,11 +67,16 @@ The previous preview version on Netlify.app is still available [here.](https://h
 ## Advanced option for real-time preview & debugging
 [Offcial document](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
+## Debugging tips:
+* Building: YAML, mapping values are not allowed in this context
+  1. One space after "<KEY>:" in yaml or your index.md
+  2. Enclose your content in quotation marks after "<KEY>:" in yaml or your index.md
 
 ## To-do list
-* Automatic deployment after new pr or commit.
+* Link news section to lab twitter account
 
 ## Website major updates
+* Mar 25, 2022: Automatic deployment after new pr or commit.
 * Mar 20, 2022: Our website finally successfully deployed on Khoury server!
 * Mar 12, 2022: paper tile directly link to pdf page, by Dian
 * Mar 9, 2022: people directly link to personal page, by Dian
