@@ -17,11 +17,11 @@ publishDate: "2022-02-22T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *preprint*
-publication_short: In *preprint*
+publication: In *Robotics Science and Systems 2022*
+publication_short: In *RSS 2022*
 
 abstract: In planar grasp detection, the goal is to learn a function from an image of a scene onto a set of feasible grasp poses in SE(2). In this paper, we recognize that the optimal grasp function is SE(2)-equivariant and can be modeled using an equivariant convolutional neural network. As a result, we are able to significantly improve the sample efficiency of grasp learning, obtaining a good approximation of the grasp function after only 600 grasp attempts. This is few enough that we can learn to grasp completely on a physical robot in about 1.5 hours.
 # Summary. An optional shortened abstract.
