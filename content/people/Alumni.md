@@ -16,6 +16,7 @@ subtitle:
 - Xinchao Song, MS (CS), 2021, Now a PhD student at Clarkson University
 - Jing Xie, MS (CS), 2019. Now at ???
 - Kevin Doty, MS (ECE), 2019. Now at Neya Systems
+- Maozhi Liu, MS (ME), 2018. Now at Flexiv Robotics
 - Matt Corsaro, MS, 2016. Now a PhD student at Brown
 - Mordechai Rynderman, MS, 2016. Now a robotics engineer at iRobot
 - Caris Moses, MS, 2016. Now a PhD student at MIT.
