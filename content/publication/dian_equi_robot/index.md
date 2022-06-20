@@ -1,12 +1,12 @@
 ---
-title: "On-Robot Policy Learning with O(2)-Equivariant SAC"
+title: "On-Robot Learning With Equivariant Models"
 authors:
 - Dian Wang
 - Mingxi Jia
 - Xupeng Zhu
 - Robin Walters
 - Robert Platt
-date: "2022-01-28T00:00:00Z"
+date: "2022-06-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
