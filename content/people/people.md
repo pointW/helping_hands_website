@@ -19,7 +19,7 @@ content:
   - Our intrepid leader (i.e. the PI)
   - Students
   - Visitors
-  - Alumni
+  - Ph.D. Alumni
   - admin
 design:
   show_interests: false

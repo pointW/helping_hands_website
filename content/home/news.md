@@ -32,15 +32,15 @@ design:
 - January 28, 2022: Our paper, [SO(2)-Equivariant Reinforcement Learning](https://arxiv.org/pdf/2203.04439.pdf), is accepted as a spotlight presentation at ICLR 2022.
 - September 13, 2021: Our paper, [Equivariant Q Learning in Spatial Action Spaces](https://arxiv.org/pdf/2110.15443.pdf), is acepted at CoRL 2021. -->
 
-<!-- <div class="container">
+<div class="container">
     <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <h1 style="font-size:3vw">News</h1>
+            <a class="twitter-timeline" data-lang="en" data-width="800" data-height="800" href="https://twitter.com/HelpingHandsLab?ref_src=twsrc%5Etfw">Tweets by HelpingHandsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <a class="twitter-timeline" data-lang="en" data-width="800" data-height="600" font-size="2px" href="https://twitter.com/HelpingHandsLab?ref_src=twsrc%5Etfw">Tweets by HelpingHandsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a class="twitter-timeline" data-lang="en" data-width="800" data-height="800" href="https://twitter.com/RobotPlatt?ref_src=twsrc%5Etfw">Tweets by RobotPlatt</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
     </div>
-</div> -->
+</div>
 
-<a class="twitter-timeline" data-lang="en" data-width="1200" data-height="1000" font-size="2px" href="https://twitter.com/HelpingHandsLab?ref_src=twsrc%5Etfw">Tweets by HelpingHandsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <a class="twitter-timeline" data-lang="en" data-width="1200" data-height="1000" font-size="2px" href="https://twitter.com/HelpingHandsLab?ref_src=twsrc%5Etfw">Tweets by HelpingHandsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
