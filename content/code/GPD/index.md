@@ -52,7 +52,7 @@ slides:
 projects:
 ---
 
-#GPD (Grasp Pose Detection), v1.0.0, released 5/2017:
+# GPD (Grasp Pose Detection), v1.0.0, released 5/2017:
 
 **What it does:** Take a point cloud as input. Produce the 6-dof position and orientation of grasps as output. Takes a few seconds per point cloud to detect grasps (on our desktops).
 
