@@ -5,7 +5,7 @@ title: Code
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 3
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
