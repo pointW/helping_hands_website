@@ -1,12 +1,12 @@
 ---
-title: "On-Robot Learning With Equivariant Models"
+title: "BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework"
 authors:
 - Dian Wang
-- Mingxi Jia
+- Colin Kohler
 - Xupeng Zhu
-- Robin Walters
+- Mingxi Jia
 - Robert Platt
-date: "2022-06-15T00:00:00Z"
+date: "2022-05-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: In *Preprint*
 publication_short: In *Preprint*
 
-abstract: Recently, equivariant neural network models have been shown to be useful in improving sample efficiency for tasks in computer vision and reinforcement learning. This paper explores this idea in the context of on-robot policy learning where a policy must be learned entirely on a physical robotic system without reference to a model, a simulator, or an offline dataset. We focus on applications of SO(2)-Equivariant SAC to robotic manipulation and explore a number of variations of the algorithm. Ultimately, we demonstrate the ability to learn several non-trivial manipulation tasks completely through on-robot experiences in less than an hour or two of wall clock time.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -31,10 +31,8 @@ tags:
 featured: true
 
 links:
-- name: Website
-  url: https://pointw.github.io/equi_robot_page/
-url_pdf: https://arxiv.org/pdf/2203.04923.pdf
-url_video: https://www.youtube.com/watch?v=HDYoOXMojkY
+url_pdf: https://arxiv.org/pdf/2205.14292.pdf
+url_code: https://github.com/ColinKohler/BulletArm
 
 
 # Featured image
@@ -63,4 +61,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/pdf/2203.04923.pdf"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/pdf/2205.14292.pdf"/>
