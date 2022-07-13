@@ -64,7 +64,7 @@ email: ""
 user_groups:
 - Students
 
-site: https://www.khoury.northeastern.edu/people/colin-kohler/
+site: https://colinkohler.github.io/webpage/
 
 ---
 
