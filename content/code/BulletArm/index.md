@@ -5,7 +5,7 @@ date: "2022-06-24"
 image:
   placement: 1
   caption: 
-  focal_point: Center
+  focal_point: Left 
 
 url_code: "https://github.com/ColinKohler/BulletArm"
 url_pdf: "https://arxiv.org/abs/2205.14292"
