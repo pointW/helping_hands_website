@@ -1,24 +1,21 @@
 ---
-title: "BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework"
+title: "Visual Foresight With a Local Dynamics Model"
 authors:
-- Dian Wang
 - Colin Kohler
-- Xupeng Zhu
-- Mingxi Jia
 - Robert Platt
-date: "2022-05-13T00:00:00Z"
+date: "2022-07-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-02T00:00:00Z"
+publishDate: "2022-07-19T00:00:00Z"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: The International Symposium on Robotics Research 2022  
+publication: The International Symposium on Robotics Research 2022
 publication_short: ISRR 2022
 
 abstract: 
@@ -31,9 +28,10 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/pdf/2205.14292.pdf
-url_code: https://github.com/ColinKohler/BulletArm
-
+- name: Website
+  url: https://colinkohler.github.io/LocalDynamicsModel/
+url_pdf: https://arxiv.org/pdf/2206.14802.pdf
+url_code: https://github.com/ColinKohler/LocalDynamicsModel
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,4 +59,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/pdf/2205.14292.pdf"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/abs/2206.14802"/>
