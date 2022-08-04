@@ -27,15 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Northeastern University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: BS in Chemical Engineering
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dmklee@neu.edu'
+  link: 'mailto:klee.d@northeastern.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=TJEEkJoAAAAJ&hl=en&oi=ao
@@ -67,8 +61,8 @@ email: ""
 user_groups:
 - Students
 
-site: https://www.khoury.northeastern.edu/people/david-klee/
+site: https://dmklee.github.io
 
 ---
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://www.khoury.northeastern.edu/people/david-klee/"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://dmklee.github.io"/>
