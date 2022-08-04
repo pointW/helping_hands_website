@@ -10,10 +10,11 @@ image:
   focal_point: Left 
 
 links:
+- name: Website
+  url: https://dmklee.github.io/nuro-arm/index.html
 - name: Documentation
   url: https://nuro-arm.readthedocs.io/en/latest/?
 url_code: https://github.com/dmklee/nuro-arm
-url_video: https://dmklee.github.io/nuro-arm/images/media.mp4
 ---
 
 NURO Arm provides a simple Python interface to a low-cost robotic arm.  With cross-platform
