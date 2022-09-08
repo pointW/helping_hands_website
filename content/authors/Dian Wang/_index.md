@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, CS
+role: PhD student, CS, co-advised with Robin Walters
 
 # Organizations/Affiliations
 organizations:
