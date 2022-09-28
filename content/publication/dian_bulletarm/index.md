@@ -31,8 +31,11 @@ tags:
 featured: true
 
 links:
+- name: Website
+  url: https://colinkohler.github.io/BulletArm/
 url_pdf: https://arxiv.org/pdf/2205.14292.pdf
 url_code: https://github.com/ColinKohler/BulletArm
+
 
 
 # Featured image
