@@ -64,6 +64,9 @@ The previous preview version on Netlify.app is still available [here.](https://h
   Add/delete a markdown file in /content/home. You can change the order of widgets by adjusting 'weight'. 
   More instructions are [here.](https://wowchemy.com/docs/getting-started/get-started/#themes)
 
+* **Modify template lay-outs**
+  
+  In case you want to modify template lay-outs, you can find templates [here.](https://github.com/wowchemy/wowchemy-hugo-themes/tree/v5.0.0/wowchemy/layouts)
 ## Advanced option for real-time preview & debugging
 [Offcial document](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
