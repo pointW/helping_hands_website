@@ -68,8 +68,8 @@ email: ""
 user_groups:
 - Students
 
-site: https://hainhbkhn.wixsite.com/hainguyen
+site: https://hai-h-nguyen.github.io/
 
 ---
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://hainhbkhn.wixsite.com/hainguyen"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://hai-h-nguyen.github.io"/>
