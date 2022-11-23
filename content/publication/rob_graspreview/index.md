@@ -16,7 +16,7 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Annual Review of Control, Robotics, and Autonomous Systems, Vol 6
-publication_short: In Annual Review
+publication_short: In Annual Review of Control, Robotics, and Autonomous Systems, Vol 6
 
 abstract: Grasp learning has become an exciting and important topic in robotics. Just a few years ago, the problem of grasping novel objects from unstructured piles of clutter was considered a serious research challenge. Now, it is a capability that is quickly being incorporated into industrial supply chain automation. How did that happen? What is the current state of the art in robotic grasp learning, what are the different methodological approaches, and what machine learning models are used? This review attempts to give an overview of the current state of the art of grasp learning research.
 
