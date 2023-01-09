@@ -1,16 +1,15 @@
 ---
-title: "Edge Grasp Network: A Graph-Based SE (3)-invariant Approach to Grasp Detection"
+title: "Equivariant Transporter Network"
 authors:
 - Haojie Huang
 - Dian Wang
-- Xupeng Zhu
 - Robin Walters
 - Robert Platt
-date: "2022-09-15T00:00:00Z"
+date: "2022-04-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-09-15T00:00:00Z"
+publishDate: "2022-03-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,11 +18,10 @@ publishDate: "2022-09-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Arxiv Preprint 2023*
-publication_short: In *Preprint 2023*
+publication: In *Robotics Science and Systems 2022*
+publication_short: In *RSS 2022*
 
-abstract: Given point cloud input, the problem of 6-DoF grasp pose detection is to identify a set of hand poses in SE(3) from which an object can be successfully grasped. This important problem has many practical applications. Here we propose a novel method and neural network model that enables better grasp success rates relative to what is available in the literature. The method takes standard point cloud data as input
-and works well with single-view point clouds observed from arbitrary viewing directions.
+abstract: Many challenging robotic manipulation problems can be viewed through the lens of a sequence of pick and pick-conditioned place actions. Recently, [Transporter Net](https://arxiv.org/pdf/2010.14406.pdf) proposed a framework for pick and place that is able to learn good manipulation policies from a very few expert demonstrations. A key reason why Transporter Net is so sample efficient is that the model incorporates rotational equivariance into the pick-conditioned place module, i.e., the model immediately generalizes learned pick-place knowledge to objects presented in different pick orientations. This work proposes a novel version of Transporter Net that is equivariant to both pick and place orientation. As a result, our model immediately generalizes pick-place knowledge to different place orientations in addition to generalizing pick orientation as before. Ultimately, our new model is more sample efficient and achieves better pick and place success rates than the baseline Transporter Net model. Our experiments show that only with 10 expert demonstrations, Equivariant Transporter Net can achieve greater than 95% success rate on 7/10 tasks of unseen configurations of Ravens-10 Benchmark. Finally, we augment our model with the ability to grasp using a parallel-jaw gripper rather than just a suction cup and demonstrate it on both simulation tasks and a real robot.
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -32,8 +30,9 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/pdf/2211.00191.pdf
-url_project: https://haojhuang.github.io/edge_grasp_page/
+url_pdf: https://arxiv.org/abs/2202.09400
+url_code: https://github.com/HaojHuang/Equivariant-Transporter-Net
+url_project: https://haojhuang.github.io/etp_page/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,4 +60,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://haojhuang.github.io/edge_grasp_page"/>
+<meta http-equiv = "refresh" content = " 0.01 ; url = https://haojhuang.github.io/etp_page"/>
