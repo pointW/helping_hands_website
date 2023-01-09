@@ -22,7 +22,7 @@ publication_types: ["1"]
 publication: In *Arxiv Preprint 2023*
 publication_short: In *Preprint 2023*
 
-abstract:Given point cloud input, the problem of 6-DoF
+abstract: Given point cloud input, the problem of 6-DoF
 grasp pose detection is to identify a set of hand poses in
 SE(3) from which an object can be successfully grasped. This
 important problem has many practical applications. Here we
@@ -69,4 +69,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://haojhuang.github.io/edge_grasp_page/"/>
+<meta http-equiv = "refresh" content = " 0.01 ; url = https://haojhuang.github.io/edge_grasp_page"/>
