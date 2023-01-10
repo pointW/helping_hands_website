@@ -32,8 +32,10 @@ tags:
 featured: true
 
 links:
+- name: Website
+  url: https://haojhuang.github.io/edge_grasp_page/
 url_pdf: https://arxiv.org/pdf/2211.00191.pdf
-url_project: https://haojhuang.github.io/edge_grasp_page/
+url_poster: https://drive.google.com/file/d/1Y5Myg-XBXbj9IkZjGn7QAt5z5Rf6ZoVd/view
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
