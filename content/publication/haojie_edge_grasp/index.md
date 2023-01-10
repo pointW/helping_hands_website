@@ -1,5 +1,5 @@
 ---
-title: "Equivariant Transporter Network"
+title: "Edge Grasp Network: A Graph-Based SE(3)-invariant Approach to Grasp Detection"
 authors:
 - Haojie Huang
 - Dian Wang
