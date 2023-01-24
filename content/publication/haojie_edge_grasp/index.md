@@ -19,8 +19,8 @@ publishDate: "2022-09-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Submitted to ICRA 2023*
-publication_short: In *Arxiv Preprint*
+publication: In *ICRA 2023*
+publication_short: In *ICRA 2023*
 
 abstract: Given point cloud input, the problem of 6-DoF grasp pose detection is to identify a set of hand posed in SE(3) from which an object can be successful grasped. This important problem has many practical applications. Here we propose a novel method and neural network that enables better grasp success rates relative to what is available in the literature. The method takes standard point cloud data as input and works well with single-view point cloud observed fromm arbitrary viewing directions.
 
