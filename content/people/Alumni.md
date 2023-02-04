@@ -14,7 +14,7 @@ subtitle:
 
 ---
 - Xinchao Song, MS (CS), 2021, Now a PhD student at Clarkson University
-- Jing Xie, MS (CS), 2019. Now at ???
+- Jing Xie, MS (CS), 2019.
 - Kevin Doty, MS (ECE), 2019. Now at Neya Systems
 - Maozhi Liu, MS (ME), 2018. Now at Flexiv Robotics
 - Matt Corsaro, MS, 2016. Now a PhD student at Brown
@@ -24,7 +24,7 @@ subtitle:
 - Giulia Franchi, Visiting Student from U. Rome, 2015. Now an assistant professor at - Salisbury University
 - Swagatika Panda, MS, 2015. Now a software engineer at Amazon
 - Di Sun, MS, 2015. Now a robotics engineer at Fetch Robotics
-- Nate Roscup, MS, 2013. Now at ???
-- Prahasaran Askoran, MS, 2013. Now at ???
+- Nate Roscup, MS, 2013.
+- Prahasaran Askoran, MS, 2013.
 - Julian Ryde, Research Assistant Professor. Now a Senior Research Scientist at United - Technologies Research Center (UTRC).
-- Scott Settembre, MS, 2012. Now at ???
+- Scott Settembre, MS, 2012.
