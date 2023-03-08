@@ -9,6 +9,9 @@ image:
 
 url_code: "https://github.com/ColinKohler/BulletArm"
 url_pdf: "https://arxiv.org/abs/2205.14292"
+links:
+- name: Website
+  url: https://colinkohler.github.io/BulletArm/
 ---
 
 # BulletArm, v1.0.0, released June 24, 2022
