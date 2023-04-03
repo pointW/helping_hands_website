@@ -34,6 +34,7 @@ featured: true
 links:
 - name: Website
   url: https://haojhuang.github.io/edge_grasp_page/
+url_code: https://github.com/HaojHuang/Edge-Grasp-Network
 url_pdf: https://arxiv.org/pdf/2211.00191.pdf
 url_poster: https://openreview.net/attachment?id=eDKsmFSB6-&name=poster
 
