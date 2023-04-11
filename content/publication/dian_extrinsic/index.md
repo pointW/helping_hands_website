@@ -36,6 +36,8 @@ links:
   url: https://pointw.github.io/extrinsic_page/
 url_pdf: https://arxiv.org/pdf/2211.09231.pdf
 url_video: https://www.youtube.com/watch?v=US4uWndGx9I
+- name: Talk
+  url: https://www.youtube.com/watch?v=QYSb_hueDHI
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
