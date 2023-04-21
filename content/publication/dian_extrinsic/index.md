@@ -34,6 +34,8 @@ featured: true
 links:
 - name: Website
   url: https://pointw.github.io/extrinsic_page/
+- name: Talk
+  url: https://www.youtube.com/watch?v=QYSb_hueDHI
 url_pdf: https://arxiv.org/pdf/2211.09231.pdf
 url_video: https://www.youtube.com/watch?v=US4uWndGx9I
 
