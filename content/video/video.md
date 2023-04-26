@@ -1,27 +1,24 @@
 ---
+# An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
+
+# This file represents a page section.
 headless: true
-weight: 25
+
+# Order that this section appears on the page.
+weight: 10
 
 title: Videos
 subtitle:
 
 content:
-  count: 5
-  filters:
-    author: ""
-    category: ""
-    exclude_featured: false
-    publication_type: ""
-    tag: ""
-  offset: 0
-  order: desc
-  page_type: code
+  
+
 design:
-  view: 3
-  columns: "1"
+  columns: '1'
 ---
+
 
 <style>
     .responsive-video-container {

@@ -52,7 +52,10 @@ The previous preview version on Netlify.app is still available [here.](https://h
 ## Videos
 * **Add videos**
 
-  Modify in '/content/home/video.md'.
+  Modify in '/content/video/video.md'.  
+  Notice that the videos in this section should NOT be introduction video, short talk, etc. for a specific paper. Those 
+  videos should be placed along with the paper in publications. Put long talks / demos / other videos that do not belong
+  to a specific paper here.
 
 ## Home page and News
 * **About**

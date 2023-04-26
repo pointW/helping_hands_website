@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: publication
     weight: 21
+  - name: Videos
+    url: video
+    weight: 22
   - name: People
     url: people
     weight: 30
