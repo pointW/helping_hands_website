@@ -8,7 +8,7 @@ title: Publications
 subtitle:
 
 content:
-  count: 5
+  count: 10
   filters:
     author: ""
     category: ""
