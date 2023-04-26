@@ -52,7 +52,7 @@ The previous preview version on Netlify.app is still available [here.](https://h
 ## Videos
 * **Add videos**
 
-  Modify in '/content/home/video.md'.
+  Modify in '/content/video/video.md'.
 
 ## Home page and News
 * **About**
