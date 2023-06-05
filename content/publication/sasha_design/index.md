@@ -7,7 +7,7 @@ authors:
 - David Kontak
 - Dian Wang
 - Noah Torname
-- Sam Laderoute
+- Amelia Sinclaire
 - Zhao Han
 - Jordan Allspaw
 - Robert Platt
