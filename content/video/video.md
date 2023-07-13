@@ -41,10 +41,12 @@ design:
 </style>
 <script>
     function setVideoHeight() {
-        var container = document.querySelector('.responsive-video-container');
-        var width = container.offsetWidth;
-        var height = width * (480 / 853); // Maintain aspect ratio (height / width)
-        container.style.paddingBottom = height + 'px';
+        var containers = document.querySelectorAll('.responsive-video-container');
+        containers.forEach(container => {
+            var width = container.offsetWidth;
+            var height = width * (480 / 853); // Maintain aspect ratio (height / width)
+            container.style.paddingBottom = height + 'px';
+        });
     }
 
     window.addEventListener('resize', setVideoHeight);
