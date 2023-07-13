@@ -37,6 +37,7 @@ links:
 url_code: https://github.com/HaojHuang/Edge-Grasp-Network
 url_pdf: https://arxiv.org/pdf/2211.00191.pdf
 url_poster: https://openreview.net/attachment?id=eDKsmFSB6-&name=poster
+url_video: https://www.youtube.com/playlist?list=PLtEvDdcT-Ai9L4HPG1F3YHGOUK4qi2Yiz
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
