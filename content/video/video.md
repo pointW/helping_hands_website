@@ -57,6 +57,11 @@ design:
 [//]: # (    <iframe src="https://www.youtube.com/embed/YOUR-VIDEO-ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
 [//]: # (</div>)
 
+- 04/13/2023: We organized the Workshop on Symmetries in Robot Learning at RSS 2023.
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube.com/embed/E2l16T0biu4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 - 04/13/2023: Dian Wang gave a guest lecture on Equivariant Learning for Robotic Manipulation.
 <div class="responsive-video-container">
     <iframe src="https://www.youtube.com/embed/dx5rDtdv7LM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
