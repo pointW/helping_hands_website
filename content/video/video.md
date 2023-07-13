@@ -41,10 +41,12 @@ design:
 </style>
 <script>
     function setVideoHeight() {
-        var container = document.querySelector('.responsive-video-container');
-        var width = container.offsetWidth;
-        var height = width * (480 / 853); // Maintain aspect ratio (height / width)
-        container.style.paddingBottom = height + 'px';
+        var containers = document.querySelectorAll('.responsive-video-container');
+        containers.forEach(container => {
+            var width = container.offsetWidth;
+            var height = width * (480 / 853); // Maintain aspect ratio (height / width)
+            container.style.paddingBottom = height + 'px';
+        });
     }
 
     window.addEventListener('resize', setVideoHeight);
@@ -56,6 +58,11 @@ design:
 [//]: # (<div class="responsive-video-container">)
 [//]: # (    <iframe src="https://www.youtube.com/embed/YOUR-VIDEO-ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
 [//]: # (</div>)
+
+- 04/13/2023: We organized the Workshop on Symmetries in Robot Learning at RSS 2023.
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube.com/embed/E2l16T0biu4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 - 04/13/2023: Dian Wang gave a guest lecture on Equivariant Learning for Robotic Manipulation.
 <div class="responsive-video-container">
