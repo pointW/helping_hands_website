@@ -61,7 +61,6 @@ projects:
 slides:
 ---
 
-
 <!-- Markdown & HTML begins here  -->
 
 <meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/pdf/2010.02798"/>
