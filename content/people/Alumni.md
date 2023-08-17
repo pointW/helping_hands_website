@@ -13,6 +13,12 @@ title: Alumni News
 subtitle:
 
 ---
+- [Mingxi Jia](https://saulbatman.github.io), MS (Robotics), 2023. Now a PhD student at Brown University.
+- [Guanang Su](https://xxs90.github.io), MS (Robotics), 2023. Now a PhD student at University of Minnesota.
+- Meishan Li, MS (Robotics), 2023. Now at CRRC MA. 
+- Shuyi Lin, MS (CS), 2023.
+- Zhengyi Ou, MS (Robotics), 2021. Now at Medtronic.
+- Yida Niu, MS (Robotics), 2021.
 - Xinchao Song, MS (CS), 2021, Now a PhD student at Clarkson University
 - Jing Xie, MS (CS), 2019.
 - Kevin Doty, MS (ECE), 2019. Now at Neya Systems
