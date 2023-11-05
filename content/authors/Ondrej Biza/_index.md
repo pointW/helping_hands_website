@@ -46,10 +46,10 @@ social:
   link: 'mailto:biza.o@northeastern.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Gi9Xq8YAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=Gi9Xq8YAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fondrejba&sa=D&sntz=1&usg=AFQjCNH9sgFT6VJJbP6m_qqiVn11hMV3Kg
+  link: https://github.com/ondrejbiza
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,8 +65,8 @@ email: ""
 user_groups:
 - Students
 
-site: https://sites.google.com/view/obiza
+site: https://ondrejbiza.com
 
 ---
-<meta http-equiv = "refresh" content = " 0 ; url = https://sites.google.com/view/obiza"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://ondrejbiza.com"/>
 
