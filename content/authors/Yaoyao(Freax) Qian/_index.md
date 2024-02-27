@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:qian.yas@northeastern.edu'
+  link: 'mailto:qian.ya@northeastern.edu'
 - icon: github
   icon_pack: fab
   link: https://github.com/H-Freax
