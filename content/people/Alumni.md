@@ -17,6 +17,7 @@ subtitle:
 - [Guanang Su](https://xxs90.github.io), MS (Robotics), 2023. Now a PhD student at University of Minnesota.
 - Meishan Li, MS (Robotics), 2023. Now at CRRC MA. 
 - Kevin Esslinger, MS (CS), 2023. Now at Flow Traders.
+- Neel Sortur, BS (CS), 2023.
 - Shuyi Lin, MS (CS), 2023.
 - Zhengyi Ou, MS (Robotics), 2021. Now at Medtronic.
 - Yida Niu, MS (Robotics), 2021.
