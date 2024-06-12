@@ -1,5 +1,5 @@
 ---
-title: "On robot grasp learning using equivariant models"
+title: "On Robot Grasp Learning Using Equivariant Models"
 authors:
 - Xupeng Zhu
 - Dian Wang
