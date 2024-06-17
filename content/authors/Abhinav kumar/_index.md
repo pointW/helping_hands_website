@@ -19,17 +19,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie at the intersection of Robotics and Artificial Intelligence 
+bio: Passionate about driving innovation at the intersection of Robotics, Artificial Intelligence, Reinforcement Learning, and Control Systems
 
 interests:
 - Robot Learning
 - Reinforcement Learning
+- Computer vision
 
 education:
   courses:
   - course: MS in Robotics
     institution: Northeastern University
-    year: 2024 (Expected)
+    year: 2025 (Expected)
   - course: B.Tech. in Mechatronics Engineering
     institution: SRM University
     year: 2022
