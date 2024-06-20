@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, CS, co-advised with Ennio Mingolla
+role: Applied Scientist at Amazon Web Services (AWS)
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Ph.D. Alumni
 
 site: https://www.khoury.northeastern.edu/people/girik-malik/
 
