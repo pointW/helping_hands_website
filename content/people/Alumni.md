@@ -13,6 +13,8 @@ title: Alumni News
 subtitle:
 
 ---
+- Elias Mann, MS (AI), 2024. Now at Rowan.
+- Kenechi Dukor, MS (Robotics), 2024. Now at Motorola Solutions.
 - [Mingxi Jia](https://saulbatman.github.io), MS (Robotics), 2023. Now a PhD student at Brown University.
 - [Guanang Su](https://xxs90.github.io), MS (Robotics), 2023. Now a PhD student at University of Minnesota.
 - Meishan Li, MS (Robotics), 2023. Now at CRRC MA. 
