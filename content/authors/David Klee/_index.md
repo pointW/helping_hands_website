@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, CS
+role: Postdoc at Northeastern University
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Alumni
 
 site: https://dmklee.github.io
 
