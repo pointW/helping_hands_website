@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's at Northeastern University
+role: M.S. student, Computer Science
 
 # Organizations/Affiliations
 organizations:
