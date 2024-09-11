@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Heng Tian
+title: Haibo Zhao
 
 # Username (this should match the folder name)
 authors:
-- Heng Tian
+- Haibo Zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. student, Robotics (ECE)
+role: M.S. student, CS
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tian.hen@northeastern.edu'
+  link: 'mailto:zhao.haib@northeastern.edu'
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=H78BJecAAAAJ&hl=en&oi=ao
@@ -70,8 +70,8 @@ email: ""
 user_groups:
 - Students
 
-site: https://heng-t.github.io/hengtian.github.io/
+site: https://www.linkedin.com/in/haibo-zhao-b68742250/
 
 ---
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://heng-t.github.io/hengtian.github.io/"/>
+<!-- <meta http-equiv = "refresh" content = " 0 ; url = https://bocehu.github.io"/> -->
