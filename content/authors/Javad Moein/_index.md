@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student, CS, AI
+role: M.S Student, AI
 
 # Organizations/Affiliations
 organizations:
