@@ -37,7 +37,7 @@ featured: true
 
 links:
 - name: Website
-  url: https://pointw.github.io/equidiff_page/
+  url: https://equidiff.github.io/
 url_pdf: https://arxiv.org/pdf/2407.01812
 
 # Featured image
