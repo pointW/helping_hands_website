@@ -20,8 +20,8 @@ publishDate: "2024-03-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICLR 2023*
-publication_short: In *ICLR 2023*
+publication: In *ICLR 2024*
+publication_short: In *ICLR 2024*
 
 abstract: Many complex robotic manipulation tasks can be decomposed as a sequence of pick and place actions. Training a robotic agent to learn this sequence over many different starting conditions typically requires many iterations or demonstrations, especially in 3D environments. In this work, we propose Fourier Transporter (FourTran), which leverages the two-fold SE(d)xSE(d)  symmetry in the pick-place problem to achieve much higher sample efficiency. FourTran is an open-loop behavior cloning method trained using expert demonstrations to predict pick-place actions on new configurations. FourTran is constrained by the symmetries of the pick and place actions independently. Our method utilizes a fiber space Fourier transformation that allows for memory-efficient computation. Tests on the RLbench benchmark achieve state-of-the-art results across various tasks..
 
