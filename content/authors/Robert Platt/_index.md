@@ -37,7 +37,7 @@ social:
 
 - icon: google-scholar
   icon_pack: ai
-  link: http://www.ccs.neu.edu/home/rplatt/#_ga=2.201523602.2007233004.1646268741-149923963.1636416990
+  link: https://scholar.google.com/citations?user=Z4Y5S2oAAAAJ&hl=en&oi=ao
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -55,6 +55,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Our intrepid leader (i.e. the PI)
+
+site: https://www.khoury.northeastern.edu/people/robert-platt/
 
 ---
 <meta http-equiv = "refresh" content = " 0 ; url = https://www.khoury.northeastern.edu/people/robert-platt/"/>

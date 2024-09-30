@@ -31,9 +31,10 @@ tags:
 featured: true
 
 links:
+- name: Website
+  url: https://pointw.github.io/equi_q_page
 url_pdf: https://arxiv.org/pdf/2110.15443.pdf
 url_code: https://github.com/pointW/equi_q_corl21
-url_project: https://pointw.github.io/equi_q_page
 url_poster: https://openreview.net/attachment?id=IScz42A3iCI&name=poster
 url_video: https://www.youtube.com/watch?v=GtdpvjLHc_Q
 
@@ -63,4 +64,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://pointw.github.io/equi_q_page"/>
+<meta http-equiv = "refresh" content = " 0.01 ; url = https://arxiv.org/pdf/2110.15443.pdf"/>

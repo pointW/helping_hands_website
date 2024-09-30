@@ -30,9 +30,10 @@ tags:
 featured: true
 
 links:
+- name: Website
+  url: https://haojhuang.github.io/etp_page/
 url_pdf: https://arxiv.org/abs/2202.09400
 url_code: https://github.com/HaojHuang/Equivariant-Transporter-Net
-url_project: https://haojhuang.github.io/etp_page/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -60,4 +61,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://haojhuang.github.io/etp_page"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/abs/2202.09400"/>

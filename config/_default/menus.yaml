@@ -7,21 +7,18 @@ main:
   - name: Home
     url: #welcome
     weight: 10
-  - name: News
-    url: #news
-    weight: 20
   - name: Publications
     url: publication
     weight: 21
+  - name: Videos
+    url: video
+    weight: 22
   - name: People
     url: people
     weight: 30
   - name: Code
     url: code
     weight: 40
-  - name: Blog
-    url: post
-    weight: 50
   - name: Positions available
     url: contact
     weight: 60

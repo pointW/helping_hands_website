@@ -34,8 +34,9 @@ tags:
 featured: true
 
 links:
+- name: Website
+  url: https://pointw.github.io/scooter-page/
 url_pdf: https://arxiv.org/pdf/1809.09541.pdf
-url_project: https://pointw.github.io/scooter-page/
 url_video: https://www.youtube.com/watch?v=ZimZlsJTaTU
 
 # Featured image
@@ -64,4 +65,4 @@ slides:
 
 <!-- Markdown & HTML begins here  -->
 
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://pointw.github.io/scooter-page/"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://arxiv.org/pdf/1809.09541.pdf"/>
