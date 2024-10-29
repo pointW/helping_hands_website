@@ -6,11 +6,11 @@ authors:
 - Arshi Tangri
 - Robin Walters
 - Robert Platt
-date: "2023-12-22T00:00:00Z"
+date: "2024-01-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-22T00:00:00Z"
+publishDate: "2024-01-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,8 +19,8 @@ publishDate: "2023-12-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Journal of Robotics Research 2023*
-publication_short: In *IJRR 2023*
+publication: In *International Journal of Robotics Research 2024*
+publication_short: In *IJRR 2024*
 
 abstract: Robotic pick and place tasks are symmetric under translations and rotations of both the object to be picked and the desired place pose. For example, if the pick object is rotated or translated, then the optimal pick action should also rotate or translate. The same is true for the place pose; if the desired place pose changes, then the place action should also transform accordingly. A recently proposed pick and place framework known as Transporter Net captures some of these symmetries, but not all. This paper analytically studies the symmetries present in planar robotic pick and place and proposes a method of incorporating equivariant neural models into Transporter Net in a way that captures all symmetries. The new model, which we call Equivariant Transporter Net, is equivariant to both pick and place symmetries and can immediately generalize pick and place knowledge to different pick and place poses. We evaluate the new model empirically and show that it is much more sample efficient than the non-symmetric version, resulting in a system that can imitate demonstrated pick and place behavior using very few human demonstrations on a variety of imitation learning tasks.
 # Summary. An optional shortened abstract.
