@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, CS, co-advised with Jan-Willem van de Meent and Lawson Wong
+role: Roboticist at Boston Dynamics AI Institute
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,10 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Northeastern University
-    year: Present
+    year: 2025
+  - course: MS in Computer Science
+    institution: Northeastern University
+    year: 2022
   - course: Bc in Computer Science
     institution: Czech Technical University in Prague
     year: 2019
@@ -63,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Ph.D. Alumni
 
 site: https://ondrejbiza.com
 
